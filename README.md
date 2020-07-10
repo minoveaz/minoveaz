@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Web Development, MongoDB, GCP, and other cool things!
 
 <!--
 **minoveaz/minoveaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
