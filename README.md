@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Web Development, MongoDB, GCP, and other cool things!
+- 🌱 I’m currently learning Web Development Technologies Like Angular and React, MongoDB, GCP, and other cool things!
+
+- 🔭 I’m currently working on one Project in Angular and other Project with MongoDb and NodeJS
 
 <!--
 **minoveaz/minoveaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
