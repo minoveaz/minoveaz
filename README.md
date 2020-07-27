@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Web Development Technologies in Frontend (Angular and React), Backend (Nodejs) and Databases (MongoDB). I like to use GCP for Cloud Solutions. :octocat:
+- 🌱 I’m currently learning Web Development Technologies in Frontend <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" /> Backend <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
+ and Databases (MongoDB). I like to use GCP for Cloud Solutions. :octocat:
 
 🚀 Some of my main projects:
 
@@ -21,6 +22,7 @@
 📌  Living in Madrid Spain <img src="https://image.flaticon.com/icons/svg/197/197593.svg" width="13"/>
 </p>
 
+<hr>
 
 ## Follow Me
 
@@ -30,6 +32,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/minoveaz)](https://github.com/minoveaz)
 [![Twitter Badge](https://img.shields.io/badge/-@minoveaz-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=minoveaz "Follow on Twitter")
 
+<hr>
 
 ## ⚡ Technologies
 
@@ -44,14 +47,21 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
+<hr>
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=minoveaz&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minoveaz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=minoveaz)
 
+<hr>
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+<hr>
+
+<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
 
 <!--
 **minoveaz/minoveaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
