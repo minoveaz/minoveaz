@@ -11,7 +11,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=minoveaz&repo=node-app)](https://github.com/minoveaz/node-app)
 
 
--  🤖 I work in Deloitte Robotics Spain
+-  🤖 I work in Deloitte Robotics Spainad
 
 - :bar_chart: I love Stats and make cool Dashboards
 
@@ -51,6 +51,7 @@
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
 
 <!--
 **minoveaz/minoveaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
