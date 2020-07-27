@@ -11,6 +11,6 @@ jobs:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: minoveaz/minoveaz@master
+      - uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.a7767762-cb45-4614-8acf-784a6adbf9ba }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
