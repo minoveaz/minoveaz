@@ -2,9 +2,22 @@
 
 - 🌱 I’m currently learning Web Development Technologies Like Angular and React, MongoDB, GCP, and other cool things! :octocat:
 
-- 🔭 I’m currently working on one Project in Angular and other Project with MongoDb and NodeJS
+- 🔭 I’m currently working on one Project in Angular and other Project with MongoDb and NodeJS:
 
-- I love Stats and make cool Dashboards :bar_chart:, 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=minoveaz&repo=angular-web-portfolio)](https://github.com/minoveaz/angular-web-portfolio)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=minoveaz&repo=node-app)](https://github.com/minoveaz/node-app)
+
+
+-  🤖 Robotics is my current Job in Deloitte Spain
+
+- I love Stats and make cool Dashboards :bar_chart:,
+
+<p> 
+Born in Bogotá Colombia 
+<br>
+📌 Living in Madrid Spain <img src="https://image.flaticon.com/icons/svg/197/197564.svg" width="13"/>
+</p>
 
 
 ## Follow Me
@@ -31,6 +44,9 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=minoveaz&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minoveaz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=minoveaz)
+
 <!--
 **minoveaz/minoveaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
