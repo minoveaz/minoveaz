@@ -14,9 +14,9 @@
 - I love Stats and make cool Dashboards :bar_chart:,
 
 <p> 
-Born in Bogotá Colombia 
+📫 Born in Bogotá Colombia <img src="https://image.flaticon.com/icons/svg/197/197575.svg" width="13"/>
 <br>
-📌 Living in Madrid Spain <img src="https://image.flaticon.com/icons/svg/197/197564.svg" width="13"/>
+📌 Living in Madrid Spain <img src="https://image.flaticon.com/icons/svg/197/197593.svg" width="13"/>
 </p>
 
 
