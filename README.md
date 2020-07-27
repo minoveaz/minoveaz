@@ -12,14 +12,14 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=minoveaz&repo=node-app)](https://github.com/minoveaz/node-app)
 
 
--  🤖 I work in Deloitte Robotics Spainad
+-  🤖 I work in Deloitte Robotics Spain
 
 - :bar_chart: I love Stats and make cool Dashboards
 
 <p> 
-📫  Born in Bogotá Colombia <img src="https://image.flaticon.com/icons/svg/197/197575.svg" width="13"/>
+📫  Born in Bogotá, Colombia <img src="https://image.flaticon.com/icons/svg/197/197575.svg" width="13"/>
 <br>
-📌  Living in Madrid Spain <img src="https://image.flaticon.com/icons/svg/197/197593.svg" width="13"/>
+📌  Living in Madrid, Spain <img src="https://image.flaticon.com/icons/svg/197/197593.svg" width="13"/>
 </p>
 
 <hr>
