@@ -57,21 +57,21 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My Github Data** 
 
-> 🏆 55 Contributions in year 2020
+> 🏆 55 Contributions in the year 2020
  > 
-> 📦 Used 0 Bytes in GitHub's Storage 
+> 📦 0 Bytes Used in Github's Storage 
  > 
-> 🚫 Not opted to Hire
+> 🚫 Not Opted to Hire
  > 
-> 📜 12 Public Repositories 
+> 📜 12 Public repositories
  > 
-> 🔑 0 Owned Private Repository 
+> 🔑 0 Private repository 
  > 
-**I'm a night 🦉** 
+**I'm a Night 🦉** 
 
 ```text
 🌞 Morning    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.17% 
@@ -80,7 +80,7 @@
 🌙 Night      3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.52%
 
 ```
-📅 **I'm Most Productive on Fridays** 
+📅 **I'm Most Productive on Friday** 
 
 ```text
 Monday       5 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.87% 
@@ -94,19 +94,19 @@ Sunday       4 commits      ██░░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spend My Time On** 
 
 ```text
-⌚︎ Timezone: Europe/Madrid
+⌚︎ Time zone: Europe/Madrid
 
-💬 Languages: 
+💬 Programming Languages: 
 TypeScript               1 hr 24 mins        ███████░░░░░░░░░░░░░░░░░░   30.09% 
 Pug                      1 hr 15 mins        ██████░░░░░░░░░░░░░░░░░░░   26.99% 
 JavaScript               1 hr 1 min          █████░░░░░░░░░░░░░░░░░░░░   21.99% 
 HTML                     41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.96% 
 CSS                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.53%
 
-🔥 Editors: 
+🔥 Code Editors: 
 VS Code                  4 hrs 40 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
@@ -115,12 +115,12 @@ hola-mundo               1 hr 59 mins        ██████████░�
 Formacion                15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.48% 
 NodeApp                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.4%
 
-💻 Operating Systems: 
+💻 Operating System: 
 Windows                  4 hrs 40 mins       █████████████████████████   100.0%
 
 ```
 
-**I mostly code in HTML** 
+**I Mostly Code in HTML** 
 
 ```text
 HTML                     4 repos             ██████████████░░░░░░░░░░░   57.14% 
