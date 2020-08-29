@@ -57,7 +57,7 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-280-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-289-blue)
 
 **🐱 My Github Data** 
 
@@ -100,21 +100,16 @@ Sunday       5 commits      ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-TypeScript               1 hr 50 mins        ███████████░░░░░░░░░░░░░░   47.38% 
-HTML                     1 hr 33 mins        ██████████░░░░░░░░░░░░░░░   40.27% 
-CSS                      28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.34% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 52 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-hola-mundo               3 hrs 44 mins       ████████████████████████░   96.57% 
-portafolio               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.43% 
-NodeApp                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 52 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
