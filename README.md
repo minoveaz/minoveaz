@@ -57,7 +57,7 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-330-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-332-blue)
 
 **🐱 My Github Data** 
 
@@ -100,16 +100,17 @@ Sunday       5 commits      ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     0 secs              ███████████████████░░░░░░   75.58% 
+TypeScript               0 secs              ██████░░░░░░░░░░░░░░░░░░░   24.42%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 min               █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+hola-mundo               1 min               █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 min               █████████████████████████   100.0%
 
 ```
 
