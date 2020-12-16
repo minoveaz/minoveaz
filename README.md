@@ -57,7 +57,7 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-130-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-121-blue)
 
 **🐱 My Github Data** 
 
@@ -69,7 +69,7 @@
  > 
 > 📜 19 Public Repositories 
  > 
-19 Private Repository 
+> 🔑 0 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
