@@ -57,7 +57,7 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-136-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-132-blue)
 
 **🐱 My Github Data** 
 
