@@ -57,7 +57,7 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-87-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-93-blue)
 
 **🐱 My Github Data** 
 
@@ -100,16 +100,16 @@ Sunday       10 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+No Activity Tracked This Week
 
 🔥 Editors: 
 No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Node Cero a Experto      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+No Activity Tracked This Week
 
 ```
 
