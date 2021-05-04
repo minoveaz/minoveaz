@@ -57,17 +57,17 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-199-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-238-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 28 Contributions in the Year 2021
+> 🏆 29 Contributions in the Year 2021
  > 
-> 📦 24.7 kB Used in Github's Storage 
+> 📦 24.8 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 19 Public Repositories 
+> 📜 20 Public Repositories 
  > 
 > 🔑 2 Private Repositories  
  > 
