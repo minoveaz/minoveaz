@@ -57,13 +57,13 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-104-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-102-blue)
 
 **🐱 My Github Data** 
 
 > 🏆 69 Contributions in the Year 2021
  > 
-> 📦 25.9 kB Used in Github's Storage 
+> 📦 26.0 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -100,16 +100,16 @@ Sunday       12 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-HTML                     0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Desarrollo               0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -130,7 +130,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/minoveaz/minoveaz/master/charts/bar_graph.png) 
 
 
- Last Updated on 27/08/2021
+ Last Updated on 28/08/2021
 <!--END_SECTION:waka-->
 
 <hr>
