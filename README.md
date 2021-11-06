@@ -57,7 +57,7 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-175-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-155-blue)
 
 **🐱 My GitHub Data** 
 
@@ -100,16 +100,23 @@ Sunday       8 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+SQL                      31 mins             █████████████░░░░░░░░░░░░   55.25% 
+Python                   18 mins             ████████░░░░░░░░░░░░░░░░░   33.12% 
+HTML                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.33% 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.3% 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  56 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+SQL                      50 mins             ██████████████████████░░░   88.37% 
+Programacion             6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.63% 
+adminpro                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  56 mins             ████████████████████████░   99.0% 
+Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.0%
 
 ```
 
@@ -130,7 +137,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/minoveaz/minoveaz/master/charts/bar_graph.png) 
 
 
- Last Updated on 05/11/2021
+ Last Updated on 06/11/2021
 <!--END_SECTION:waka-->
 
 <hr>
