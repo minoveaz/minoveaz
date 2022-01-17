@@ -57,7 +57,7 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-155-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-138-blue)
 
 **🐱 My GitHub Data** 
 
@@ -100,16 +100,16 @@ Sunday       8 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-TypeScript               0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-adminpro                 0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -130,7 +130,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/minoveaz/minoveaz/master/charts/bar_graph.png) 
 
 
- Last Updated on 14/01/2022
+ Last Updated on 17/01/2022
 <!--END_SECTION:waka-->
 
 <hr>
