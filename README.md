@@ -57,7 +57,7 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-178-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-192-blue)
 
 **🐱 My GitHub Data** 
 
@@ -130,7 +130,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/minoveaz/minoveaz/master/charts/bar_graph.png) 
 
 
- Last Updated on 03/02/2022 18:46:49 UTC
+ Last Updated on 05/02/2022 18:40:09 UTC
 <!--END_SECTION:waka-->
 
 <hr>
