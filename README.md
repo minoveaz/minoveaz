@@ -57,13 +57,13 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-203-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-202-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 0 Contributions in the Year 2022
  > 
-> 📦 27.6 kB Used in GitHub's Storage 
+> 📦 27.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -130,7 +130,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/minoveaz/minoveaz/master/charts/bar_graph.png) 
 
 
- Last Updated on 20/04/2022 18:47:56 UTC
+ Last Updated on 21/04/2022 18:52:13 UTC
 <!--END_SECTION:waka-->
 
 <hr>
