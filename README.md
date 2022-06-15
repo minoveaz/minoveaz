@@ -59,7 +59,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-189-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-196-blue)
 
 **🐱 My GitHub Data** 
 
@@ -102,16 +102,18 @@ Sunday       4 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   26 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  26 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Formacion                18 mins             █████████████████░░░░░░░░   70.87% 
+Unknown Project          4 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.61% 
+Script Python            3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.52%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  26 mins             █████████████████████████   100.0%
 
 ```
 
@@ -132,7 +134,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/minoveaz/minoveaz/master/charts/bar_graph.png) 
 
 
- Last Updated on 14/06/2022 18:50:17 UTC
+ Last Updated on 15/06/2022 18:50:00 UTC
 <!--END_SECTION:waka-->
 
 <hr>
