@@ -59,7 +59,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-580%20hrs%2025%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-142-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-135-blue)
 
 **🐱 My GitHub Data** 
 
@@ -132,7 +132,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/minoveaz/minoveaz/master/charts/bar_graph.png) 
 
 
- Last Updated on 02/09/2022 18:52:23 UTC
+ Last Updated on 03/09/2022 18:49:37 UTC
 <!--END_SECTION:waka-->
 
 <hr>
