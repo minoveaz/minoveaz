@@ -100,16 +100,16 @@ Sunday                   19 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-HTML                     0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Desarrollo               0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -129,7 +129,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/minoveaz/minoveaz/master/assets/bar_graph.png)
 
 
- Last Updated on 29/05/2023 18:38:01 UTC
+ Last Updated on 30/05/2023 18:37:47 UTC
 <!--END_SECTION:waka-->
 
 <hr>
