@@ -59,7 +59,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-594%20hrs%2047%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-164-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-192-blue)
 
 **🐱 My GitHub Data** 
 
@@ -100,17 +100,16 @@ Sunday                   19 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Python                   25 mins             ████████████████████░░░░░   80.88 % 
-HTML                     6 mins              █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  31 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Desarrollo               31 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      31 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -130,7 +129,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/minoveaz/minoveaz/master/assets/bar_graph.png)
 
 
- Last Updated on 22/06/2023 18:37:45 UTC
+ Last Updated on 23/06/2023 18:41:07 UTC
 <!--END_SECTION:waka-->
 
 <hr>
