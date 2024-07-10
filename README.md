@@ -65,8 +65,6 @@
 
 > 📦 28.5 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 22 Public Repositories 
@@ -129,7 +127,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/minoveaz/minoveaz/master/assets/bar_graph.png)
 
 
- Last Updated on 09/07/2024 18:40:56 UTC
+ Last Updated on 10/07/2024 18:42:00 UTC
 <!--END_SECTION:waka-->
 
 <hr>
