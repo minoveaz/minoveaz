@@ -59,11 +59,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-594%20hrs%2047%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-103-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-107-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 28.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -127,7 +129,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/minoveaz/minoveaz/master/assets/bar_graph.png)
 
 
- Last Updated on 18/06/2025 18:51:39 UTC
+ Last Updated on 19/06/2025 18:49:55 UTC
 <!--END_SECTION:waka-->
 
 <hr>
