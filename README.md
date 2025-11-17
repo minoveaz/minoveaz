@@ -57,7 +57,9 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-104-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-594%20hrs%2047%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-109-blue)
 
 **🐱 My GitHub Data** 
 
@@ -71,6 +73,45 @@
  > 
 > 🔑 3 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+🌆 Daytime                65 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
+🌃 Evening                287 commits         █████████████████░░░░░░░░   69.66 % 
+🌙 Night                  33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   66 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
+Tuesday                  81 commits          █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
+Wednesday                84 commits          █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
+Thursday                 73 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
+Friday                   59 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+Saturday                 30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+Sunday                   19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Madrid
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in HTML** 
 
 ```text
@@ -88,7 +129,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/minoveaz/minoveaz/master/assets/bar_graph.png)
 
 
- Last Updated on 16/11/2025 18:47:18 UTC
+ Last Updated on 17/11/2025 18:50:23 UTC
 <!--END_SECTION:waka-->
 
 <hr>
