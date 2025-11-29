@@ -59,11 +59,11 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-620%20hrs%2046%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-94-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-93-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 122.2 kB Used in GitHub's Storage 
+> 📦 122.5 kB Used in GitHub's Storage 
  > 
 > 🏆 39 Contributions in the Year 2025
  > 
@@ -136,7 +136,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/minoveaz/minoveaz/master/assets/bar_graph.png)
 
 
- Last Updated on 28/11/2025 18:49:20 UTC
+ Last Updated on 29/11/2025 18:49:00 UTC
 <!--END_SECTION:waka-->
 
 <hr>
