@@ -57,7 +57,7 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-104-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-100-blue)
 
 **🐱 My GitHub Data** 
 
@@ -88,7 +88,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/minoveaz/minoveaz/master/assets/bar_graph.png)
 
 
- Last Updated on 02/01/2026 18:53:19 UTC
+ Last Updated on 03/01/2026 18:51:34 UTC
 <!--END_SECTION:waka-->
 
 <hr>
