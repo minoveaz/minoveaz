@@ -57,9 +57,9 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-751%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-752%20hrs-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-115-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-109-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -100,22 +100,16 @@ Sunday                   113 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Markdown                 1 hr 32 mins        █████████████████████░░░░   83.21 % 
-Batchfile                15 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-Git Config               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+HTML                     1 min               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 50 mins        █████████████████████████   100.00 % 
+VS Code                  1 min               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Proyectos                1 hr 11 mins        ████████████████░░░░░░░░░   64.72 % 
-Robot 4                  20 mins             █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
-Coding                   15 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-Estar Protegidos         2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Robot 4                  1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 14 mins        █████████████████░░░░░░░░   67.28 % 
-Windows                  36 mins             ████████░░░░░░░░░░░░░░░░░   32.72 % 
+Windows                  1 min               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -135,7 +129,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/minoveaz/minoveaz/master/assets/bar_graph.png)
 
 
- Last Updated on 11/02/2026 18:51:14 UTC
+ Last Updated on 12/02/2026 18:51:15 UTC
 <!--END_SECTION:waka-->
 
 <hr>
