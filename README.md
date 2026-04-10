@@ -57,9 +57,9 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-785%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-785%20hrs%2050%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-127-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-124-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -100,16 +100,19 @@ Sunday                   136 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-SQL                      4 mins              █████████████████████████   100.00 % 
+JSON                     17 mins             ████████████████████░░░░░   81.66 % 
+SQL                      4 mins              █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
 
 🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.00 % 
+VS Code                  21 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-loopdev                  4 mins              █████████████████████████   100.00 % 
+Coding                   17 mins             ████████████████████░░░░░   81.66 % 
+loopdev                  4 mins              █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
 
 💻 Operating System: 
-Mac                      4 mins              █████████████████████████   100.00 % 
+Windows                  17 mins             ████████████████████░░░░░   81.66 % 
+Mac                      4 mins              █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -129,7 +132,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/minoveaz/minoveaz/master/assets/bar_graph.png)
 
 
- Last Updated on 09/04/2026 18:50:58 UTC
+ Last Updated on 10/04/2026 18:49:48 UTC
 <!--END_SECTION:waka-->
 
 <hr>
