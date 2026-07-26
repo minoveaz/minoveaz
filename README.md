@@ -57,9 +57,9 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C012%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C013%20hrs%2059%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-72-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-75-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -100,26 +100,26 @@ Sunday                   136 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-TypeScript               5 hrs 41 mins       ██████████░░░░░░░░░░░░░░░   39.93 % 
-JavaScript               3 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
-Python                   1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-Other                    1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-Markdown                 55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+TypeScript               5 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   34.50 % 
+JavaScript               4 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   30.03 % 
+Python                   1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+Other                    1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+Markdown                 49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 59 mins       ████████████████░░░░░░░░░   63.18 % 
-Antigravity CLI          5 hrs 14 mins       █████████░░░░░░░░░░░░░░░░   36.82 % 
+VS Code                  10 hrs 6 mins       █████████████████░░░░░░░░   69.29 % 
+Antigravity CLI          4 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   30.71 % 
 
 🐱‍💻 Projects: 
-decoupledpda_poc         6 hrs 54 mins       ████████████░░░░░░░░░░░░░   48.55 % 
-loopdev                  5 hrs 50 mins       ██████████░░░░░░░░░░░░░░░   41.06 % 
-Proyectos                1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+decoupledpda_poc         8 hrs 2 mins        ██████████████░░░░░░░░░░░   55.13 % 
+loopdev                  5 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   35.44 % 
+Proyectos                1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 tracks                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 💻 Operating System: 
-Mac                      7 hrs 18 mins       █████████████░░░░░░░░░░░░   51.29 % 
-Windows                  6 hrs 56 mins       ████████████░░░░░░░░░░░░░   48.71 % 
+Windows                  8 hrs 4 mins        ██████████████░░░░░░░░░░░   55.29 % 
+Mac                      6 hrs 31 mins       ███████████░░░░░░░░░░░░░░   44.71 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -139,7 +139,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/minoveaz/minoveaz/master/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 18:51:14 UTC
+ Last Updated on 26/07/2026 18:51:34 UTC
 <!--END_SECTION:waka-->
 
 <hr>
