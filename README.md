@@ -57,10 +57,6 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-981%20hrs%2055%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-264%20hrs%2021%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-75-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -75,79 +71,6 @@
  > 
 > 🔑 9 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                85 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-🌆 Daytime                215 commits         █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
-🌃 Evening                665 commits         ██████████████░░░░░░░░░░░   56.69 % 
-🌙 Night                  208 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   188 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
-Tuesday                  172 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
-Wednesday                198 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-Thursday                 153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-Friday                   93 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
-Saturday                 233 commits         █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
-Sunday                   136 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Madrid
-
-💬 Programming Languages: 
-JavaScript               4 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   41.44 % 
-Python                   1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
-TypeScript               1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-Other                    1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-CSS                      44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-
-🔥 Editors: 
-VS Code                  8 hrs 4 mins        ███████████████████░░░░░░   76.31 % 
-Antigravity CLI          2 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
-
-🐱‍💻 Projects: 
-decoupledpda_poc         8 hrs 2 mins        ███████████████████░░░░░░   76.09 % 
-loopdev                  1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-Proyectos                57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-tracks                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-💻 Operating System: 
-Windows                  8 hrs 4 mins        ███████████████████░░░░░░   76.31 % 
-Mac                      2 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 10 hrs 24 mins (98.39%)
-
-✍️ 5,139 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 64,506,958 Input Tokens, 275,474 Output Tokens
-
-💵 $165.45 Estimated AI Cost This Week
-
-🧠 8 AI Sessions, 150 AI Prompts
-
-GPT                      5,199 lines         ███████████████████████░░   90.81 % 
-Gemini                   526 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 202 characters per prompt
-🔁 Iterative Prompter — average 19 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -165,7 +88,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/minoveaz/minoveaz/master/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 19:00:03 UTC
+ Last Updated on 28/07/2026 18:57:50 UTC
 <!--END_SECTION:waka-->
 
 <hr>
