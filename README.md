@@ -57,7 +57,11 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-75-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-986%20hrs%2018%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-270%20hrs%2057%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-79-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -71,6 +75,81 @@
  > 
 > 🔑 9 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                85 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+🌆 Daytime                215 commits         █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
+🌃 Evening                665 commits         ██████████████░░░░░░░░░░░   56.69 % 
+🌙 Night                  208 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   188 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
+Tuesday                  172 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+Wednesday                198 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
+Thursday                 153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Friday                   93 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+Saturday                 233 commits         █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
+Sunday                   136 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Madrid
+
+💬 Programming Languages: 
+JavaScript               4 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   29.87 % 
+TypeScript               3 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
+Other                    2 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
+Python                   1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+Markdown                 1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+
+🔥 Editors: 
+VS Code                  8 hrs 8 mins        ██████████████░░░░░░░░░░░   55.45 % 
+Antigravity CLI          4 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   33.27 % 
+Copilot CLI              1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+
+🐱‍💻 Projects: 
+decoupledpda_poc         8 hrs 2 mins        ██████████████░░░░░░░░░░░   54.84 % 
+Estar Protegidos         4 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   29.90 % 
+Proyectos                2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+vitablue                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+tracks                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+
+💻 Operating System: 
+Windows                  8 hrs 4 mins        ██████████████░░░░░░░░░░░   55.00 % 
+Mac                      6 hrs 36 mins       ███████████░░░░░░░░░░░░░░   45.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 14 hrs 29 mins (98.84%)
+
+✍️ 6,013 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 64,506,958 Input Tokens, 377,626 Output Tokens
+
+💵 $167.96 Estimated AI Cost This Week
+
+🧠 9 AI Sessions, 202 AI Prompts
+
+GPT                      6,232 lines         ███████████████████████░░   90.20 % 
+Gemini                   677 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 213 characters per prompt
+🔁 Iterative Prompter — average 22 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -88,7 +167,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/minoveaz/minoveaz/master/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 18:57:50 UTC
+ Last Updated on 29/07/2026 18:51:29 UTC
 <!--END_SECTION:waka-->
 
 <hr>
