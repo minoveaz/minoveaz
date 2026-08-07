@@ -57,17 +57,13 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C018%20hrs%2044%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-307%20hrs%208%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-84-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-95-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 145.4 kB Used in GitHub's Storage 
+> 📦 143.3 kB Used in GitHub's Storage 
  > 
-> 🏆 50 Contributions in the Year 2026
+> 🏆 113 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -75,81 +71,6 @@
  > 
 > 🔑 9 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                143 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
-🌆 Daytime                301 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
-🌃 Evening                942 commits         ██████████████░░░░░░░░░░░   55.06 % 
-🌙 Night                  325 commits         █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   287 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
-Tuesday                  244 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-Wednesday                277 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
-Thursday                 237 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-Friday                   101 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
-Saturday                 357 commits         █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
-Sunday                   208 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Madrid
-
-💬 Programming Languages: 
-Markdown                 10 hrs 52 mins      ███████░░░░░░░░░░░░░░░░░░   28.88 % 
-TypeScript               7 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
-JavaScript               5 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-Other                    5 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-Python                   3 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-
-🔥 Editors: 
-VS Code                  26 hrs 47 mins      ██████████████████░░░░░░░   71.16 % 
-Antigravity CLI          10 hrs 51 mins      ███████░░░░░░░░░░░░░░░░░░   28.83 % 
-Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🐱‍💻 Projects: 
-decoupledpda_poc         14 hrs 48 mins      ██████████░░░░░░░░░░░░░░░   39.34 % 
-vitablue-v2              7 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
-Proyectos                5 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-Downloads                4 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
-Estar Protegidos         1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-
-💻 Operating System: 
-Windows                  23 hrs 2 mins       ███████████████░░░░░░░░░░   61.20 % 
-Mac                      14 hrs 36 mins      ██████████░░░░░░░░░░░░░░░   38.80 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 36 hrs 10 mins (96.07%)
-
-✍️ 19,800 lines written by AI, 107 lines written by hand (99.46% AI-written)
-
-🔤 116,916,955 Input Tokens, 446,735 Output Tokens
-
-💵 $522.11 Estimated AI Cost This Week
-
-🧠 23 AI Sessions, 579 AI Prompts
-
-GPT                      13,090 lines        ████████████████░░░░░░░░░   63.70 % 
-Github-Copilot           4,089 lines         █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
-Gemini                   3,372 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
-Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.46% of written lines came from AI
-📝 Concise Prompter — average 266 characters per prompt
-🔁 Iterative Prompter — average 25 prompts per session
-🚀 High AI Trust — 2.31% of changed lines were hand-edited
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -167,7 +88,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/minoveaz/minoveaz/master/assets/bar_graph.png)
 
 
- Last Updated on 05/08/2026 19:03:56 UTC
+ Last Updated on 07/08/2026 18:50:26 UTC
 <!--END_SECTION:waka-->
 
 <hr>
