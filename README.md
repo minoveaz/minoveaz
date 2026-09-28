@@ -57,9 +57,9 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C322%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C323%20hrs%2047%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-631%20hrs%207%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-633%20hrs%2024%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-119-blue?style=flat)
 
@@ -75,6 +75,84 @@
  > 
 > 🔑 12 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                400 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+🌆 Daytime                961 commits         ███████░░░░░░░░░░░░░░░░░░   28.37 % 
+🌃 Evening                1433 commits        ███████████░░░░░░░░░░░░░░   42.31 % 
+🌙 Night                  593 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   451 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+Tuesday                  432 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Wednesday                541 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+Thursday                 460 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+Friday                   345 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+Saturday                 662 commits         █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
+Sunday                   496 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Madrid
+
+💬 Programming Languages: 
+Other                    12 hrs 35 mins      ███████████░░░░░░░░░░░░░░   44.40 % 
+TypeScript               5 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
+Markdown                 3 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Python                   3 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+JavaScript               51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+
+🔥 Editors: 
+Codex Vscode             9 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   32.96 % 
+Copilot CLI              8 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   29.18 % 
+Antigravity Desktop      6 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
+Copilot                  2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+VS Code                  1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+
+🐱‍💻 Projects: 
+decoupledpda_poc         10 hrs 35 mins      █████████░░░░░░░░░░░░░░░░   37.34 % 
+Remix-Social-Sports      6 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
+AIP Frontend             5 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
+loopdev-v2               3 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+super-fiesta-08e0de3e    1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+
+💻 Operating System: 
+Windows                  18 hrs 25 mins      ████████████████░░░░░░░░░   64.95 % 
+Mac                      9 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   35.05 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 28 hrs 9 mins (99.25%)
+
+✍️ 4,253 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 10,946,665 Input Tokens, 967,737 Output Tokens
+
+💵 $28.72 Estimated AI Cost This Week
+
+🧠 45 AI Sessions, 370 AI Prompts
+
+GPT                      4,478 lines         █████████████████████████   100.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Copilot                  0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 3,759 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -92,7 +170,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/minoveaz/minoveaz/master/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2026 18:43:47 UTC
+ Last Updated on 28/09/2026 18:47:49 UTC
 <!--END_SECTION:waka-->
 
 <hr>
