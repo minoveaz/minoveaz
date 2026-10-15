@@ -57,11 +57,11 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C374%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C376%20hrs%2014%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-686%20hrs%204%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-688%20hrs%207%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-77-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-72-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -102,53 +102,52 @@ Sunday                   596 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-JSON                     10 hrs 39 mins      ██████████░░░░░░░░░░░░░░░   39.99 % 
-TypeScript               5 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
-JavaScript               3 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-Markdown                 3 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-Python                   2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+JSON                     8 hrs 51 mins       ██████████░░░░░░░░░░░░░░░   38.80 % 
+TypeScript               5 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
+Markdown                 3 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
+JavaScript               3 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+Python                   34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 
 🔥 Editors: 
-Copilot                  15 hrs 51 mins      ███████████████░░░░░░░░░░   59.49 % 
-Codex Vscode             5 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
-Copilot CLI              5 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
-VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-Antigravity Desktop      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Copilot                  13 hrs 57 mins      ███████████████░░░░░░░░░░   61.21 % 
+Copilot CLI              5 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
+Codex Vscode             3 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+Antigravity Desktop      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🐱‍💻 Projects: 
-loopdev-v2               15 hrs 27 mins      ██████████████░░░░░░░░░░░   57.98 % 
-decoupledpda_poc         3 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
-vitablue-v2              3 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-Miaucraft                2 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
-g-p-6ac54e4297dc81a4b28c056 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+loopdev-v2               13 hrs 32 mins      ███████████████░░░░░░░░░░   59.39 % 
+vitablue-v2              3 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+Miaucraft                2 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+decoupledpda_poc         2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+AIP Frontend             25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 
 💻 Operating System: 
-Mac                      21 hrs 45 mins      ████████████████████░░░░░   81.56 % 
-Windows                  4 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
+Mac                      19 hrs 50 mins      ██████████████████████░░░   86.97 % 
+Windows                  2 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 40 mins (100.0%)
+⏱ AI Coding Time: 22 hrs 48 mins (100.0%)
 
-✍️ 11,608 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 11,371 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 23,812,893 Input Tokens, 710,960 Output Tokens
+🔤 21,227,072 Input Tokens, 634,277 Output Tokens
 
-💵 $19.97 Estimated AI Cost This Week
+💵 $17.40 Estimated AI Cost This Week
 
-🧠 32 AI Sessions, 240 AI Prompts
+🧠 27 AI Sessions, 206 AI Prompts
 
-GPT                      9,831 lines         ███████████████████░░░░░░   75.99 % 
-Haiku                    3,103 lines         ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
+GPT                      9,469 lines         ███████████████████░░░░░░   75.29 % 
+Haiku                    3,103 lines         ██████░░░░░░░░░░░░░░░░░░░   24.67 % 
 Github-Copilot-Cli       4 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 282 characters per prompt
+📝 Concise Prompter — average 283 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -170,7 +169,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/minoveaz/minoveaz/master/assets/bar_graph.png)
 
 
- Last Updated on 14/10/2026 18:48:34 UTC
+ Last Updated on 15/10/2026 18:48:07 UTC
 <!--END_SECTION:waka-->
 
 <hr>
