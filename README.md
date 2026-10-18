@@ -61,13 +61,13 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-689%20hrs%204%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-55-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-56-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 354.7 kB Used in GitHub's Storage 
+> 📦 359.5 kB Used in GitHub's Storage 
  > 
-> 🏆 688 Contributions in the Year 2026
+> 🏆 689 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -75,6 +75,83 @@
  > 
 > 🔑 13 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                459 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+🌆 Daytime                1134 commits        ████████░░░░░░░░░░░░░░░░░   30.30 % 
+🌃 Evening                1529 commits        ██████████░░░░░░░░░░░░░░░   40.85 % 
+🌙 Night                  621 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   540 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+Tuesday                  477 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+Wednesday                572 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+Thursday                 472 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+Friday                   377 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+Saturday                 709 commits         █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
+Sunday                   596 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Madrid
+
+💬 Programming Languages: 
+JSON                     8 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   36.44 % 
+TypeScript               5 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
+Markdown                 4 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+JavaScript               3 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+Python                   48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+
+🔥 Editors: 
+Copilot                  13 hrs 30 mins      ███████████████░░░░░░░░░░   58.58 % 
+Copilot CLI              5 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
+Codex Vscode             4 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
+Antigravity Desktop      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+
+🐱‍💻 Projects: 
+loopdev-v2               13 hrs 13 mins      ██████████████░░░░░░░░░░░   57.37 % 
+vitablue-v2              3 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Miaucraft                2 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+decoupledpda_poc         2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+g-p-6ac54e4297dc81a4b28c030 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+
+💻 Operating System: 
+Mac                      20 hrs 4 mins       ██████████████████████░░░   87.05 % 
+Windows                  2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 23 hrs 3 mins (100.0%)
+
+✍️ 12,167 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 23,236,645 Input Tokens, 1,190,732 Output Tokens
+
+💵 $20.95 Estimated AI Cost This Week
+
+🧠 26 AI Sessions, 212 AI Prompts
+
+GPT                      10,268 lines        ███████████████████░░░░░░   76.77 % 
+Haiku                    3,103 lines         ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
+Github-Copilot-Cli       4 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 276 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -92,7 +169,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/minoveaz/minoveaz/master/assets/bar_graph.png)
 
 
- Last Updated on 17/10/2026 18:41:47 UTC
+ Last Updated on 18/10/2026 18:42:30 UTC
 <!--END_SECTION:waka-->
 
 <hr>
