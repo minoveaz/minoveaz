@@ -57,11 +57,11 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C390%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C394%20hrs%2018%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-702%20hrs%2031%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-706%20hrs%2018%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-42-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-39-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -75,6 +75,81 @@
  > 
 > 🔑 13 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                459 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+🌆 Daytime                1134 commits        ████████░░░░░░░░░░░░░░░░░   30.30 % 
+🌃 Evening                1529 commits        ██████████░░░░░░░░░░░░░░░   40.85 % 
+🌙 Night                  621 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   540 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+Tuesday                  477 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+Wednesday                572 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+Thursday                 472 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+Friday                   377 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+Saturday                 709 commits         █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
+Sunday                   596 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Madrid
+
+💬 Programming Languages: 
+TypeScript               11 hrs 48 mins      ████████████░░░░░░░░░░░░░   49.85 % 
+JavaScript               4 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
+CSS                      2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+Python                   1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+Markdown                 1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+
+🔥 Editors: 
+Codex Vscode             10 hrs 33 mins      ███████████░░░░░░░░░░░░░░   44.56 % 
+VS Code                  5 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
+Copilot                  4 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+Copilot CLI              3 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+
+🐱‍💻 Projects: 
+AIP Frontend             8 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   35.32 % 
+Business Model           4 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
+Video Generator          3 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+sparklight               2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+decoupledpda_poc         2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+
+💻 Operating System: 
+Windows                  21 hrs 30 mins      ███████████████████████░░   90.81 % 
+Mac                      2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 23 hrs 39 mins (99.88%)
+
+✍️ 6,019 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 23,700,768 Input Tokens, 1,729,855 Output Tokens
+
+💵 $24.87 Estimated AI Cost This Week
+
+🧠 20 AI Sessions, 133 AI Prompts
+
+GPT                      5,245 lines         ████████████████████░░░░░   79.42 % 
+Haiku                    1,359 lines         █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
+Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 238 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -92,7 +167,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/minoveaz/minoveaz/master/assets/bar_graph.png)
 
 
- Last Updated on 22/10/2026 18:47:30 UTC
+ Last Updated on 23/10/2026 18:47:09 UTC
 <!--END_SECTION:waka-->
 
 <hr>
