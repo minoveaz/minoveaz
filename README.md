@@ -57,17 +57,17 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C403%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C407%20hrs%206%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-716%20hrs%2037%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-721%20hrs-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-51-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-47-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 459.5 kB Used in GitHub's Storage 
+> 📦 460.5 kB Used in GitHub's Storage 
  > 
-> 🏆 706 Contributions in the Year 2026
+> 🏆 708 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -75,6 +75,82 @@
  > 
 > 🔑 12 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                463 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+🌆 Daytime                1145 commits        ████████░░░░░░░░░░░░░░░░░   30.30 % 
+🌃 Evening                1550 commits        ██████████░░░░░░░░░░░░░░░   41.02 % 
+🌙 Night                  621 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   548 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+Tuesday                  477 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+Wednesday                578 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
+Thursday                 472 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+Friday                   377 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+Saturday                 709 commits         █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
+Sunday                   618 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Madrid
+
+💬 Programming Languages: 
+TypeScript               9 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   28.65 % 
+Markdown                 6 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
+JSON                     5 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+JavaScript               4 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+CSS                      2 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+
+🔥 Editors: 
+Copilot CLI              11 hrs 55 mins      █████████░░░░░░░░░░░░░░░░   36.38 % 
+VS Code                  9 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   29.65 % 
+Codex Vscode             9 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   29.13 % 
+Copilot                  57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+Antigravity Desktop      37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+
+🐱‍💻 Projects: 
+loopdev-v2               8 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   26.59 % 
+AIP Frontend             7 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
+Video Generator          5 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
+Business Model           4 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+decoupledpda_poc         3 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+
+💻 Operating System: 
+Windows                  22 hrs 45 mins      █████████████████░░░░░░░░   69.38 % 
+Mac                      10 hrs 2 mins       ████████░░░░░░░░░░░░░░░░░   30.62 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 32 hrs 45 mins (99.91%)
+
+✍️ 12,456 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 23,627,443 Input Tokens, 2,877,353 Output Tokens
+
+💵 $19.26 Estimated AI Cost This Week
+
+🧠 37 AI Sessions, 269 AI Prompts
+
+GPT                      13,190 lines        █████████████████████████   100.00 % 
+Vscode                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 144 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -92,7 +168,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/minoveaz/minoveaz/master/assets/bar_graph.png)
 
 
- Last Updated on 26/10/2026 18:56:17 UTC
+ Last Updated on 27/10/2026 18:37:45 UTC
 <!--END_SECTION:waka-->
 
 <hr>
